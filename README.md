@@ -1,4 +1,4 @@
-:wave: Hello My name is Jeonghi, I am a developer working at **Kookmin Univ. :books:**,
+:wave:  Hello My name is Jeonghi, I am a developer working at **Kookmin Univ. :books:**,
 
 I have been studying **computer science:computer:** since 2019. I have project experience using **Python(My most confident language)**, c++, and Java languages. I am very interested in **deep learning**. I am especially interested in **computer vision**.
 
@@ -8,7 +8,7 @@ I have been studying **computer science:computer:** since 2019. I have project e
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2019. 3 ~ | Department of Software | [**Kookmin Univ.**](https://cs.kookmin.ac.kr/) |
 |   **External activities**    | 2020. 5 ~ 2020. 12 | [18th ESWContest . Part of Intelligent humanoid](http://eswcontest.or.kr/) | [**Korea Embeded Software and System Industry Association**](http://www.kessia.kr) |
-| **External activities** | 2020. 6 ~ 2020. 9 |          Humunoid robot sports          | **Seoultech Robot Competition** |
+| **External activities** | 2020. 6 ~ 2020. 9 |          Humanoid robot sports          | **Seoultech Robot Competition** |
 |   **Research activities**    | 2020. 7 ~ 2020. 12 |        Undergraduate Research Students         | [**Kookmin Univ. HCI Lab**](https://kookmin-hci.github.io/home/) |
 
 ### :cyclone: Languages
