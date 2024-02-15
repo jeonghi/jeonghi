@@ -1,16 +1,33 @@
-### Hi there 👋
+### 💼 Work Experience
 
-<!--
-**jeonghi/jeonghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- CARZEN Inc. 산학연계프로젝트 iOS 앱 개발자 ( 2023. 02 - 2023. 09 )
+- 국민대학교 Python, ML 교육 조교 ( 2019. 09 - 2020. 06, 2023. 09 - 2023. 12 )
+- 국민대학교 IoT 교육 조교 ( 2022. 09 - 2022. 12 )
 
-Here are some ideas to get you started:
+### 🙋‍♂️ Contribution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- swift-evolution
+
+### 🪪 Certificate
+
+- 정보처리기사 ( 2022. 06 취득 )
+- SQL 개발자 ( 2022. 05 취득 )
+
+### 🏆 Award
+
+- 과학기술정보통신부 주최, K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전. 은상 ( 2023. 12 )
+- 숙명여자대학교 SW중심대학사업단 주최, 대학 연합 해커톤. 장려상 ( 2022. 12 )
+- 산업통상자원부 주최, 임베디드 소프트웨어 경진대회 - 지능형 휴머노이드 부문. 최우수상 ( 2021. 12 )
+- 산업통상자원부 주최, 임베디드 소프트웨어 경진대회 - 지능형 휴머노이드 부문. 특선상 ( 2020. 12 )
+
+### 🙋‍♂️ Activity
+
+- SeSAC 메모리스 iOS 앱 개발자 과정 6기 ( 2023. 12 ~ )
+- 국민대학교 일반대학원 HCI 연구실 영상처리분야 학부연구원 ( 2020. 06 ~ 2020. 11 )
+- 국민대학교 임베디드소프트웨어학회 KOBOT 영상처리 파트원 ( 2019. 09 ~ 2021. 01 )
+- 국민대학교 오픈소스소프트웨어학회 KOSS 학회장 ( 2019. 04 ~ 2022. 12 )
+
+### 🧑🏻‍🎓 Education
+
+- 컴퓨터공학사, 수료 ( ~ 2024. 02 )
+- 경영전문학사 ( ~ 2019. 02 )
